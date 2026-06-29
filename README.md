@@ -1,7 +1,8 @@
 # GeoFuse
 
 **Paper**: [ArXiv](https://arxiv.org/abs/2605.14925)
-![framework](figs/framework.pdf)
+
+![framework](figs/framework.png)
 
 ## Dataset
 Download [Road Map](https://drive.google.com/file/d/1_MROR8ZFpH9F4uHjZ9woL5R_Z599AKyt/view?usp=drive_link)
